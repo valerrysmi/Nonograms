@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nonograms</string>
+    <string name="text_in">Вход</string>
+    <string name="text_learning">Обучение</string>
+    <string name="text_play">Играть</string>
+    <string name="registr">Регистрация</string>
+</resources>
